@@ -1,4 +1,4 @@
-Here’s a sample `README.md` for your C language GitHub folder. It’s structured clearly with a professional tone and includes links (which you can later update if needed):
+
 
 ---
 
