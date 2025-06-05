@@ -1,8 +1,5 @@
 
 
----
-
-````markdown
 # C Programming Lessons
 
 Welcome to my C Programming repository! This folder contains C source files and notes organized by lessons, covering fundamental concepts of the C language. Whether you're a beginner or revisiting C, these structured lessons can help you understand key programming topics step by step.
@@ -27,9 +24,9 @@ Each lesson includes source code (`.c` files) and corresponding notes to aid you
 ## 🔧 How to Use
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-````
+```bash
+   git clone https://github.com/gauarj2320/C-Language.git
+```
 
 2. Navigate to the C folder and compile any `.c` file:
 
